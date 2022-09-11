@@ -1090,6 +1090,7 @@ p {
   .call_to_action_box .call_to_action_btn {
     margin-top: 30px; }
     .call_to_action_box .call_to_action_btn .main-btn {
+      padding: 0 15px;
       color: #00A78E;
       background-color: #fff; }
       .call_to_action_box .call_to_action_btn .main-btn:hover {
